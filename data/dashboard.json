@@ -1,10 +1,1041 @@
 {
-  "league": "Smithman Invitational",
+  "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-25T00:00:00Z",
-  "gameweek": null,
-  "players": [],
-  "awards": [],
+  "updated": "2026-11-25T23:18:36.551718+00:00",
+  "gameweek": 11,
+  "players": [
+    {
+      "id": 679383,
+      "manager": "Dave Stutters",
+      "team": "Boom-Saka-Laka",
+      "rank": 1,
+      "total": 718,
+      "event_total": 44,
+      "history": [
+        {
+          "gw": 1,
+          "points": 69,
+          "total": 69
+        },
+        {
+          "gw": 2,
+          "points": 107,
+          "total": 176
+        },
+        {
+          "gw": 3,
+          "points": 54,
+          "total": 230
+        },
+        {
+          "gw": 4,
+          "points": 103,
+          "total": 333
+        },
+        {
+          "gw": 5,
+          "points": 39,
+          "total": 372
+        },
+        {
+          "gw": 6,
+          "points": 55,
+          "total": 427
+        },
+        {
+          "gw": 7,
+          "points": 65,
+          "total": 492
+        },
+        {
+          "gw": 8,
+          "points": 45,
+          "total": 537
+        },
+        {
+          "gw": 9,
+          "points": 56,
+          "total": 593
+        },
+        {
+          "gw": 10,
+          "points": 81,
+          "total": 674
+        },
+        {
+          "gw": 11,
+          "points": 44,
+          "total": 718
+        }
+      ],
+      "earned": 7.0
+    },
+    {
+      "id": 338862,
+      "manager": "Jon Foreman",
+      "team": "Smith must score",
+      "rank": 2,
+      "total": 707,
+      "event_total": 36,
+      "history": [
+        {
+          "gw": 1,
+          "points": 49,
+          "total": 49
+        },
+        {
+          "gw": 2,
+          "points": 101,
+          "total": 150
+        },
+        {
+          "gw": 3,
+          "points": 58,
+          "total": 204
+        },
+        {
+          "gw": 4,
+          "points": 99,
+          "total": 299
+        },
+        {
+          "gw": 5,
+          "points": 69,
+          "total": 368
+        },
+        {
+          "gw": 6,
+          "points": 61,
+          "total": 429
+        },
+        {
+          "gw": 7,
+          "points": 80,
+          "total": 509
+        },
+        {
+          "gw": 8,
+          "points": 42,
+          "total": 551
+        },
+        {
+          "gw": 9,
+          "points": 73,
+          "total": 624
+        },
+        {
+          "gw": 10,
+          "points": 47,
+          "total": 671
+        },
+        {
+          "gw": 11,
+          "points": 36,
+          "total": 707
+        }
+      ],
+      "earned": 7.0
+    },
+    {
+      "id": 4733756,
+      "manager": "Alistair De Gernier",
+      "team": "Olympique de Gernier",
+      "rank": 3,
+      "total": 691,
+      "event_total": 53,
+      "history": [
+        {
+          "gw": 1,
+          "points": 39,
+          "total": 39
+        },
+        {
+          "gw": 2,
+          "points": 108,
+          "total": 147
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "total": 200
+        },
+        {
+          "gw": 4,
+          "points": 81,
+          "total": 281
+        },
+        {
+          "gw": 5,
+          "points": 57,
+          "total": 338
+        },
+        {
+          "gw": 6,
+          "points": 44,
+          "total": 382
+        },
+        {
+          "gw": 7,
+          "points": 74,
+          "total": 456
+        },
+        {
+          "gw": 8,
+          "points": 45,
+          "total": 501
+        },
+        {
+          "gw": 9,
+          "points": 75,
+          "total": 576
+        },
+        {
+          "gw": 10,
+          "points": 62,
+          "total": 638
+        },
+        {
+          "gw": 11,
+          "points": 53,
+          "total": 691
+        }
+      ],
+      "earned": 3.0
+    },
+    {
+      "id": 2152005,
+      "manager": "Tony Smith",
+      "team": "Wirtz Team Ever",
+      "rank": 4,
+      "total": 681,
+      "event_total": 38,
+      "history": [
+        {
+          "gw": 1,
+          "points": 55,
+          "total": 55
+        },
+        {
+          "gw": 2,
+          "points": 79,
+          "total": 134
+        },
+        {
+          "gw": 3,
+          "points": 65,
+          "total": 199
+        },
+        {
+          "gw": 4,
+          "points": 71,
+          "total": 270
+        },
+        {
+          "gw": 5,
+          "points": 57,
+          "total": 327
+        },
+        {
+          "gw": 6,
+          "points": 75,
+          "total": 398
+        },
+        {
+          "gw": 7,
+          "points": 63,
+          "total": 461
+        },
+        {
+          "gw": 8,
+          "points": 47,
+          "total": 508
+        },
+        {
+          "gw": 9,
+          "points": 78,
+          "total": 586
+        },
+        {
+          "gw": 10,
+          "points": 57,
+          "total": 643
+        },
+        {
+          "gw": 11,
+          "points": 38,
+          "total": 681
+        }
+      ],
+      "earned": 4.0
+    },
+    {
+      "id": 55035,
+      "manager": "Cohen Smith",
+      "team": "Make emile of it",
+      "rank": 5,
+      "total": 673,
+      "event_total": 30,
+      "history": [
+        {
+          "gw": 1,
+          "points": 57,
+          "total": 57
+        },
+        {
+          "gw": 2,
+          "points": 56,
+          "total": 113
+        },
+        {
+          "gw": 3,
+          "points": 51,
+          "total": 164
+        },
+        {
+          "gw": 4,
+          "points": 81,
+          "total": 245
+        },
+        {
+          "gw": 5,
+          "points": 49,
+          "total": 294
+        },
+        {
+          "gw": 6,
+          "points": 64,
+          "total": 358
+        },
+        {
+          "gw": 7,
+          "points": 78,
+          "total": 436
+        },
+        {
+          "gw": 8,
+          "points": 28,
+          "total": 464
+        },
+        {
+          "gw": 9,
+          "points": 80,
+          "total": 544
+        },
+        {
+          "gw": 10,
+          "points": 99,
+          "total": 643
+        },
+        {
+          "gw": 11,
+          "points": 30,
+          "total": 673
+        }
+      ],
+      "earned": 2.25
+    },
+    {
+      "id": 2595541,
+      "manager": "Rich Knight",
+      "team": "Red Djed Redemption",
+      "rank": 6,
+      "total": 659,
+      "event_total": 36,
+      "history": [
+        {
+          "gw": 1,
+          "points": 26,
+          "total": 26
+        },
+        {
+          "gw": 2,
+          "points": 76,
+          "total": 102
+        },
+        {
+          "gw": 3,
+          "points": 62,
+          "total": 156
+        },
+        {
+          "gw": 4,
+          "points": 93,
+          "total": 249
+        },
+        {
+          "gw": 5,
+          "points": 64,
+          "total": 313
+        },
+        {
+          "gw": 6,
+          "points": 76,
+          "total": 389
+        },
+        {
+          "gw": 7,
+          "points": 61,
+          "total": 442
+        },
+        {
+          "gw": 8,
+          "points": 49,
+          "total": 491
+        },
+        {
+          "gw": 9,
+          "points": 61,
+          "total": 552
+        },
+        {
+          "gw": 10,
+          "points": 71,
+          "total": 623
+        },
+        {
+          "gw": 11,
+          "points": 36,
+          "total": 659
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 1697938,
+      "manager": "caellum De gernier",
+      "team": "Clumutd",
+      "rank": 7,
+      "total": 654,
+      "event_total": 38,
+      "history": [
+        {
+          "gw": 1,
+          "points": 46,
+          "total": 46
+        },
+        {
+          "gw": 2,
+          "points": 95,
+          "total": 141
+        },
+        {
+          "gw": 3,
+          "points": 63,
+          "total": 204
+        },
+        {
+          "gw": 4,
+          "points": 84,
+          "total": 288
+        },
+        {
+          "gw": 5,
+          "points": 40,
+          "total": 320
+        },
+        {
+          "gw": 6,
+          "points": 69,
+          "total": 389
+        },
+        {
+          "gw": 7,
+          "points": 71,
+          "total": 460
+        },
+        {
+          "gw": 8,
+          "points": 43,
+          "total": 503
+        },
+        {
+          "gw": 9,
+          "points": 50,
+          "total": 553
+        },
+        {
+          "gw": 10,
+          "points": 63,
+          "total": 616
+        },
+        {
+          "gw": 11,
+          "points": 38,
+          "total": 654
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 1823287,
+      "manager": "Chris Smith",
+      "team": "Buckaroo Saka",
+      "rank": 8,
+      "total": 633,
+      "event_total": 32,
+      "history": [
+        {
+          "gw": 1,
+          "points": 42,
+          "total": 42
+        },
+        {
+          "gw": 2,
+          "points": 50,
+          "total": 92
+        },
+        {
+          "gw": 3,
+          "points": 66,
+          "total": 158
+        },
+        {
+          "gw": 4,
+          "points": 68,
+          "total": 226
+        },
+        {
+          "gw": 5,
+          "points": 34,
+          "total": 260
+        },
+        {
+          "gw": 6,
+          "points": 50,
+          "total": 310
+        },
+        {
+          "gw": 7,
+          "points": 78,
+          "total": 388
+        },
+        {
+          "gw": 8,
+          "points": 70,
+          "total": 458
+        },
+        {
+          "gw": 9,
+          "points": 52,
+          "total": 502
+        },
+        {
+          "gw": 10,
+          "points": 99,
+          "total": 601
+        },
+        {
+          "gw": 11,
+          "points": 32,
+          "total": 633
+        }
+      ],
+      "earned": 3.75
+    },
+    {
+      "id": 2716734,
+      "manager": "Alex Nicholls",
+      "team": "Baddadan Burn",
+      "rank": 9,
+      "total": 624,
+      "event_total": 47,
+      "history": [
+        {
+          "gw": 1,
+          "points": 37,
+          "total": 37
+        },
+        {
+          "gw": 2,
+          "points": 78,
+          "total": 115
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "total": 168
+        },
+        {
+          "gw": 4,
+          "points": 71,
+          "total": 235
+        },
+        {
+          "gw": 5,
+          "points": 50,
+          "total": 285
+        },
+        {
+          "gw": 6,
+          "points": 52,
+          "total": 337
+        },
+        {
+          "gw": 7,
+          "points": 61,
+          "total": 398
+        },
+        {
+          "gw": 8,
+          "points": 27,
+          "total": 425
+        },
+        {
+          "gw": 9,
+          "points": 77,
+          "total": 502
+        },
+        {
+          "gw": 10,
+          "points": 75,
+          "total": 577
+        },
+        {
+          "gw": 11,
+          "points": 47,
+          "total": 624
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 693855,
+      "manager": "David browne",
+      "team": "silverlakes",
+      "rank": 10,
+      "total": 617,
+      "event_total": 31,
+      "history": [
+        {
+          "gw": 1,
+          "points": 56,
+          "total": 56
+        },
+        {
+          "gw": 2,
+          "points": 84,
+          "total": 140
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "total": 189
+        },
+        {
+          "gw": 4,
+          "points": 59,
+          "total": 248
+        },
+        {
+          "gw": 5,
+          "points": 42,
+          "total": 290
+        },
+        {
+          "gw": 6,
+          "points": 78,
+          "total": 368
+        },
+        {
+          "gw": 7,
+          "points": 39,
+          "total": 407
+        },
+        {
+          "gw": 8,
+          "points": 51,
+          "total": 458
+        },
+        {
+          "gw": 9,
+          "points": 62,
+          "total": 520
+        },
+        {
+          "gw": 10,
+          "points": 66,
+          "total": 586
+        },
+        {
+          "gw": 11,
+          "points": 31,
+          "total": 617
+        }
+      ],
+      "earned": 1.5
+    },
+    {
+      "id": 4279346,
+      "manager": "Saurav V",
+      "team": "cunhabruno",
+      "rank": 11,
+      "total": 615,
+      "event_total": 26,
+      "history": [
+        {
+          "gw": 1,
+          "points": 62,
+          "total": 62
+        },
+        {
+          "gw": 2,
+          "points": 102,
+          "total": 164
+        },
+        {
+          "gw": 3,
+          "points": 51,
+          "total": 207
+        },
+        {
+          "gw": 4,
+          "points": 81,
+          "total": 288
+        },
+        {
+          "gw": 5,
+          "points": 41,
+          "total": 329
+        },
+        {
+          "gw": 6,
+          "points": 72,
+          "total": 401
+        },
+        {
+          "gw": 7,
+          "points": 61,
+          "total": 462
+        },
+        {
+          "gw": 8,
+          "points": 30,
+          "total": 492
+        },
+        {
+          "gw": 9,
+          "points": 41,
+          "total": 533
+        },
+        {
+          "gw": 10,
+          "points": 64,
+          "total": 597
+        },
+        {
+          "gw": 11,
+          "points": 26,
+          "total": 615
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 342827,
+      "manager": "Keaton Smith",
+      "team": "better red for djed",
+      "rank": 12,
+      "total": 593,
+      "event_total": 25,
+      "history": [
+        {
+          "gw": 1,
+          "points": 54,
+          "total": 54
+        },
+        {
+          "gw": 2,
+          "points": 56,
+          "total": 110
+        },
+        {
+          "gw": 3,
+          "points": 54,
+          "total": 164
+        },
+        {
+          "gw": 4,
+          "points": 76,
+          "total": 240
+        },
+        {
+          "gw": 5,
+          "points": 64,
+          "total": 304
+        },
+        {
+          "gw": 6,
+          "points": 46,
+          "total": 350
+        },
+        {
+          "gw": 7,
+          "points": 68,
+          "total": 418
+        },
+        {
+          "gw": 8,
+          "points": 59,
+          "total": 477
+        },
+        {
+          "gw": 9,
+          "points": 38,
+          "total": 515
+        },
+        {
+          "gw": 10,
+          "points": 53,
+          "total": 568
+        },
+        {
+          "gw": 11,
+          "points": 25,
+          "total": 593
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 2510079,
+      "manager": "Luke Stonehouse",
+      "team": "2nd Try FC",
+      "rank": 13,
+      "total": 591,
+      "event_total": 41,
+      "history": [
+        {
+          "gw": 1,
+          "points": 49,
+          "total": 49
+        },
+        {
+          "gw": 2,
+          "points": 75,
+          "total": 124
+        },
+        {
+          "gw": 3,
+          "points": 50,
+          "total": 174
+        },
+        {
+          "gw": 4,
+          "points": 71,
+          "total": 245
+        },
+        {
+          "gw": 5,
+          "points": 56,
+          "total": 301
+        },
+        {
+          "gw": 6,
+          "points": 45,
+          "total": 346
+        },
+        {
+          "gw": 7,
+          "points": 35,
+          "total": 381
+        },
+        {
+          "gw": 8,
+          "points": 60,
+          "total": 441
+        },
+        {
+          "gw": 9,
+          "points": 55,
+          "total": 496
+        },
+        {
+          "gw": 10,
+          "points": 54,
+          "total": 550
+        },
+        {
+          "gw": 11,
+          "points": 41,
+          "total": 591
+        }
+      ],
+      "earned": 0
+    },
+    {
+      "id": 1660659,
+      "manager": "Alex Leech",
+      "team": "Sesko meal deal",
+      "rank": 14,
+      "total": 543,
+      "event_total": 28,
+      "history": [
+        {
+          "gw": 1,
+          "points": 42,
+          "total": 42
+        },
+        {
+          "gw": 2,
+          "points": 51,
+          "total": 93
+        },
+        {
+          "gw": 3,
+          "points": 51,
+          "total": 144
+        },
+        {
+          "gw": 4,
+          "points": 53,
+          "total": 197
+        },
+        {
+          "gw": 5,
+          "points": 33,
+          "total": 230
+        },
+        {
+          "gw": 6,
+          "points": 69,
+          "total": 299
+        },
+        {
+          "gw": 7,
+          "points": 60,
+          "total": 359
+        },
+        {
+          "gw": 8,
+          "points": 50,
+          "total": 409
+        },
+        {
+          "gw": 9,
+          "points": 43,
+          "total": 452
+        },
+        {
+          "gw": 10,
+          "points": 63,
+          "total": 515
+        },
+        {
+          "gw": 11,
+          "points": 28,
+          "total": 543
+        }
+      ],
+      "earned": 0
+    }
+  ],
+  "awards": [
+    {
+      "type": "Gameweek",
+      "period": "1",
+      "id": 679383,
+      "amount": 1.5,
+      "points": 69
+    },
+    {
+      "type": "Gameweek",
+      "period": "2",
+      "id": 4733756,
+      "amount": 1.5,
+      "points": 108
+    },
+    {
+      "type": "Gameweek",
+      "period": "3",
+      "id": 1823287,
+      "amount": 1.5,
+      "points": 66
+    },
+    {
+      "type": "Gameweek",
+      "period": "4",
+      "id": 679383,
+      "amount": 1.5,
+      "points": 103
+    },
+    {
+      "type": "Gameweek",
+      "period": "5",
+      "id": 338862,
+      "amount": 1.5,
+      "points": 69
+    },
+    {
+      "type": "Gameweek",
+      "period": "6",
+      "id": 693855,
+      "amount": 1.5,
+      "points": 78
+    },
+    {
+      "type": "Gameweek",
+      "period": "7",
+      "id": 338862,
+      "amount": 1.5,
+      "points": 80
+    },
+    {
+      "type": "Gameweek",
+      "period": "8",
+      "id": 1823287,
+      "amount": 1.5,
+      "points": 70
+    },
+    {
+      "type": "Gameweek",
+      "period": "9",
+      "id": 55035,
+      "amount": 1.5,
+      "points": 80
+    },
+    {
+      "type": "Gameweek",
+      "period": "10",
+      "id": 55035,
+      "amount": 0.75,
+      "points": 99
+    },
+    {
+      "type": "Gameweek",
+      "period": "10",
+      "id": 1823287,
+      "amount": 0.75,
+      "points": 99
+    },
+    {
+      "type": "Gameweek",
+      "period": "11",
+      "id": 4733756,
+      "amount": 1.5,
+      "points": 53
+    },
+    {
+      "type": "Month",
+      "period": "2026-08",
+      "id": 679383,
+      "amount": 4.0,
+      "points": 176
+    },
+    {
+      "type": "Month",
+      "period": "2026-09",
+      "id": 338862,
+      "amount": 4.0,
+      "points": 226
+    },
+    {
+      "type": "Month",
+      "period": "2026-10",
+      "id": 2152005,
+      "amount": 4.0,
+      "points": 263
+    }
+  ],
   "prize_config": {
     "league_id": 418812,
     "season": "2026/27",
@@ -20,5 +1051,5 @@
     "monthly_rule": "calendar_month_of_gameweek_deadline",
     "notes": "Review monthly definition, cup and tie rules against original workbook before treating prizes as final."
   },
-  "notice": "Starter placeholder. Run update.py to fetch actual league data."
+  "notice": "Provisional tracker. Cup, season-end and special prizes require validation; monthly awards use deadline calendar months."
 }
