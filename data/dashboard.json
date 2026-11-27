@@ -1,7 +1,7 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-27T21:08:39.103373+00:00",
+  "updated": "2026-11-27T22:08:06.061456+00:00",
   "gameweek": 12,
   "players": [
     {
@@ -80,8 +80,8 @@
       "manager": "Jon Foreman",
       "team": "Smith must score",
       "rank": 2,
-      "total": 708,
-      "event_total": 1,
+      "total": 709,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -222,8 +222,8 @@
       "manager": "Tony Smith",
       "team": "Wirtz Team Ever",
       "rank": 4,
-      "total": 682,
-      "event_total": 1,
+      "total": 683,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -293,8 +293,8 @@
       "manager": "Cohen Smith",
       "team": "Make emile of it",
       "rank": 5,
-      "total": 674,
-      "event_total": 1,
+      "total": 675,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -364,8 +364,8 @@
       "manager": "Rich Knight",
       "team": "Red Djed Redemption",
       "rank": 6,
-      "total": 660,
-      "event_total": 1,
+      "total": 661,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -435,8 +435,8 @@
       "manager": "caellum De gernier",
       "team": "Clumutd",
       "rank": 7,
-      "total": 655,
-      "event_total": 1,
+      "total": 656,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -577,8 +577,8 @@
       "manager": "Alex Nicholls",
       "team": "Baddadan Burn",
       "rank": 9,
-      "total": 625,
-      "event_total": 1,
+      "total": 626,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -648,8 +648,8 @@
       "manager": "David browne",
       "team": "silverlakes",
       "rank": 10,
-      "total": 620,
-      "event_total": 3,
+      "total": 623,
+      "event_total": 6,
       "history": [
         {
           "gw": 1,
@@ -719,8 +719,8 @@
       "manager": "Saurav V",
       "team": "cunhabruno",
       "rank": 11,
-      "total": 616,
-      "event_total": 1,
+      "total": 617,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -790,8 +790,8 @@
       "manager": "Keaton Smith",
       "team": "better red for djed",
       "rank": 12,
-      "total": 595,
-      "event_total": 2,
+      "total": 603,
+      "event_total": 10,
       "history": [
         {
           "gw": 1,
@@ -861,8 +861,8 @@
       "manager": "Luke Stonehouse",
       "team": "2nd Try FC",
       "rank": 13,
-      "total": 593,
-      "event_total": 2,
+      "total": 595,
+      "event_total": 4,
       "history": [
         {
           "gw": 1,
