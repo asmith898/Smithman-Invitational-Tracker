@@ -1,8 +1,8 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-27T18:00:10.828772+00:00",
-  "gameweek": 11,
+  "updated": "2026-11-27T19:11:43.977449+00:00",
+  "gameweek": 12,
   "players": [
     {
       "id": 679383,
@@ -10,7 +10,7 @@
       "team": "Boom-Saka-Laka",
       "rank": 1,
       "total": 718,
-      "event_total": 44,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -66,6 +66,11 @@
           "gw": 11,
           "points": 44,
           "total": 718
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 718
         }
       ],
       "earned": 7.0
@@ -76,7 +81,7 @@
       "team": "Smith must score",
       "rank": 2,
       "total": 707,
-      "event_total": 36,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -132,6 +137,11 @@
           "gw": 11,
           "points": 36,
           "total": 707
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 707
         }
       ],
       "earned": 7.0
@@ -142,7 +152,7 @@
       "team": "Olympique de Gernier",
       "rank": 3,
       "total": 691,
-      "event_total": 53,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -198,6 +208,11 @@
           "gw": 11,
           "points": 53,
           "total": 691
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 691
         }
       ],
       "earned": 3.0
@@ -208,7 +223,7 @@
       "team": "Wirtz Team Ever",
       "rank": 4,
       "total": 681,
-      "event_total": 38,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -264,6 +279,11 @@
           "gw": 11,
           "points": 38,
           "total": 681
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 681
         }
       ],
       "earned": 4.0
@@ -274,7 +294,7 @@
       "team": "Make emile of it",
       "rank": 5,
       "total": 673,
-      "event_total": 30,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -330,6 +350,11 @@
           "gw": 11,
           "points": 30,
           "total": 673
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 673
         }
       ],
       "earned": 2.25
@@ -340,7 +365,7 @@
       "team": "Red Djed Redemption",
       "rank": 6,
       "total": 659,
-      "event_total": 36,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -396,6 +421,11 @@
           "gw": 11,
           "points": 36,
           "total": 659
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 659
         }
       ],
       "earned": 0
@@ -406,7 +436,7 @@
       "team": "Clumutd",
       "rank": 7,
       "total": 654,
-      "event_total": 38,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -462,6 +492,11 @@
           "gw": 11,
           "points": 38,
           "total": 654
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 654
         }
       ],
       "earned": 0
@@ -472,7 +507,7 @@
       "team": "Buckaroo Saka",
       "rank": 8,
       "total": 633,
-      "event_total": 32,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -528,6 +563,11 @@
           "gw": 11,
           "points": 32,
           "total": 633
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 633
         }
       ],
       "earned": 3.75
@@ -538,7 +578,7 @@
       "team": "Baddadan Burn",
       "rank": 9,
       "total": 624,
-      "event_total": 47,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -594,6 +634,11 @@
           "gw": 11,
           "points": 47,
           "total": 624
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 624
         }
       ],
       "earned": 0
@@ -604,7 +649,7 @@
       "team": "silverlakes",
       "rank": 10,
       "total": 617,
-      "event_total": 31,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -660,6 +705,11 @@
           "gw": 11,
           "points": 31,
           "total": 617
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 617
         }
       ],
       "earned": 1.5
@@ -670,7 +720,7 @@
       "team": "cunhabruno",
       "rank": 11,
       "total": 615,
-      "event_total": 26,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -726,6 +776,11 @@
           "gw": 11,
           "points": 26,
           "total": 615
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 615
         }
       ],
       "earned": 0
@@ -736,7 +791,7 @@
       "team": "better red for djed",
       "rank": 12,
       "total": 593,
-      "event_total": 25,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -792,6 +847,11 @@
           "gw": 11,
           "points": 25,
           "total": 593
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 593
         }
       ],
       "earned": 0
@@ -802,7 +862,7 @@
       "team": "2nd Try FC",
       "rank": 13,
       "total": 591,
-      "event_total": 41,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -858,6 +918,11 @@
           "gw": 11,
           "points": 41,
           "total": 591
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 591
         }
       ],
       "earned": 0
@@ -868,7 +933,7 @@
       "team": "Sesko meal deal",
       "rank": 14,
       "total": 543,
-      "event_total": 28,
+      "event_total": 0,
       "history": [
         {
           "gw": 1,
@@ -923,6 +988,11 @@
         {
           "gw": 11,
           "points": 28,
+          "total": 543
+        },
+        {
+          "gw": 12,
+          "points": 0,
           "total": 543
         }
       ],
