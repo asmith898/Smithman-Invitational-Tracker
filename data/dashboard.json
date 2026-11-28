@@ -1,7 +1,7 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-28T19:05:34.813624+00:00",
+  "updated": "2026-11-28T20:03:49.264212+00:00",
   "gameweek": 12,
   "players": [
     {
@@ -80,8 +80,8 @@
       "manager": "Dave Stutters",
       "team": "Boom-Saka-Laka",
       "rank": 2,
-      "total": 728,
-      "event_total": 10,
+      "total": 730,
+      "event_total": 12,
       "history": [
         {
           "gw": 1,
@@ -151,8 +151,8 @@
       "manager": "Tony Smith",
       "team": "Wirtz Team Ever",
       "rank": 3,
-      "total": 708,
-      "event_total": 27,
+      "total": 710,
+      "event_total": 29,
       "history": [
         {
           "gw": 1,
@@ -577,8 +577,8 @@
       "manager": "David browne",
       "team": "silverlakes",
       "rank": 9,
-      "total": 633,
-      "event_total": 16,
+      "total": 635,
+      "event_total": 18,
       "history": [
         {
           "gw": 1,
