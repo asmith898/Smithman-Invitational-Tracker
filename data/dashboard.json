@@ -1,7 +1,7 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-27T23:08:06.987494+00:00",
+  "updated": "2026-11-28T00:00:07.621934+00:00",
   "gameweek": 12,
   "players": [
     {
@@ -140,8 +140,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 707
+          "points": 2,
+          "total": 709
         }
       ],
       "earned": 7.0
@@ -282,8 +282,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 681
+          "points": 2,
+          "total": 683
         }
       ],
       "earned": 4.0
@@ -353,8 +353,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 673
+          "points": 2,
+          "total": 675
         }
       ],
       "earned": 2.25
@@ -424,8 +424,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 659
+          "points": 2,
+          "total": 661
         }
       ],
       "earned": 0
@@ -495,8 +495,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 654
+          "points": 2,
+          "total": 656
         }
       ],
       "earned": 0
@@ -637,8 +637,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 624
+          "points": 2,
+          "total": 626
         }
       ],
       "earned": 0
@@ -708,8 +708,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 617
+          "points": 6,
+          "total": 623
         }
       ],
       "earned": 1.5
@@ -779,8 +779,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 615
+          "points": 2,
+          "total": 617
         }
       ],
       "earned": 0
@@ -850,8 +850,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 593
+          "points": 10,
+          "total": 603
         }
       ],
       "earned": 0
@@ -921,8 +921,8 @@
         },
         {
           "gw": 12,
-          "points": 0,
-          "total": 591
+          "points": 4,
+          "total": 595
         }
       ],
       "earned": 0
