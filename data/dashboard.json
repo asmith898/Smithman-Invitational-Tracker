@@ -1,87 +1,16 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-28T15:02:30.464701+00:00",
+  "updated": "2026-11-28T15:58:07.370852+00:00",
   "gameweek": 12,
   "players": [
-    {
-      "id": 679383,
-      "manager": "Dave Stutters",
-      "team": "Boom-Saka-Laka",
-      "rank": 1,
-      "total": 718,
-      "event_total": 0,
-      "history": [
-        {
-          "gw": 1,
-          "points": 69,
-          "total": 69
-        },
-        {
-          "gw": 2,
-          "points": 107,
-          "total": 176
-        },
-        {
-          "gw": 3,
-          "points": 54,
-          "total": 230
-        },
-        {
-          "gw": 4,
-          "points": 103,
-          "total": 333
-        },
-        {
-          "gw": 5,
-          "points": 39,
-          "total": 372
-        },
-        {
-          "gw": 6,
-          "points": 55,
-          "total": 427
-        },
-        {
-          "gw": 7,
-          "points": 65,
-          "total": 492
-        },
-        {
-          "gw": 8,
-          "points": 45,
-          "total": 537
-        },
-        {
-          "gw": 9,
-          "points": 56,
-          "total": 593
-        },
-        {
-          "gw": 10,
-          "points": 81,
-          "total": 674
-        },
-        {
-          "gw": 11,
-          "points": 44,
-          "total": 718
-        },
-        {
-          "gw": 12,
-          "points": 0,
-          "total": 718
-        }
-      ],
-      "earned": 7.0
-    },
     {
       "id": 338862,
       "manager": "Jon Foreman",
       "team": "Smith must score",
-      "rank": 2,
-      "total": 709,
-      "event_total": 2,
+      "rank": 1,
+      "total": 725,
+      "event_total": 18,
       "history": [
         {
           "gw": 1,
@@ -142,6 +71,77 @@
           "gw": 12,
           "points": 2,
           "total": 709
+        }
+      ],
+      "earned": 7.0
+    },
+    {
+      "id": 679383,
+      "manager": "Dave Stutters",
+      "team": "Boom-Saka-Laka",
+      "rank": 2,
+      "total": 720,
+      "event_total": 2,
+      "history": [
+        {
+          "gw": 1,
+          "points": 69,
+          "total": 69
+        },
+        {
+          "gw": 2,
+          "points": 107,
+          "total": 176
+        },
+        {
+          "gw": 3,
+          "points": 54,
+          "total": 230
+        },
+        {
+          "gw": 4,
+          "points": 103,
+          "total": 333
+        },
+        {
+          "gw": 5,
+          "points": 39,
+          "total": 372
+        },
+        {
+          "gw": 6,
+          "points": 55,
+          "total": 427
+        },
+        {
+          "gw": 7,
+          "points": 65,
+          "total": 492
+        },
+        {
+          "gw": 8,
+          "points": 45,
+          "total": 537
+        },
+        {
+          "gw": 9,
+          "points": 56,
+          "total": 593
+        },
+        {
+          "gw": 10,
+          "points": 81,
+          "total": 674
+        },
+        {
+          "gw": 11,
+          "points": 44,
+          "total": 718
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 718
         }
       ],
       "earned": 7.0
@@ -222,8 +222,8 @@
       "manager": "Tony Smith",
       "team": "Wirtz Team Ever",
       "rank": 4,
-      "total": 683,
-      "event_total": 2,
+      "total": 685,
+      "event_total": 4,
       "history": [
         {
           "gw": 1,
@@ -360,10 +360,81 @@
       "earned": 2.25
     },
     {
+      "id": 1697938,
+      "manager": "caellum De gernier",
+      "team": "Clumutd",
+      "rank": 6,
+      "total": 670,
+      "event_total": 16,
+      "history": [
+        {
+          "gw": 1,
+          "points": 46,
+          "total": 46
+        },
+        {
+          "gw": 2,
+          "points": 95,
+          "total": 141
+        },
+        {
+          "gw": 3,
+          "points": 63,
+          "total": 204
+        },
+        {
+          "gw": 4,
+          "points": 84,
+          "total": 288
+        },
+        {
+          "gw": 5,
+          "points": 40,
+          "total": 320
+        },
+        {
+          "gw": 6,
+          "points": 69,
+          "total": 389
+        },
+        {
+          "gw": 7,
+          "points": 71,
+          "total": 460
+        },
+        {
+          "gw": 8,
+          "points": 43,
+          "total": 503
+        },
+        {
+          "gw": 9,
+          "points": 50,
+          "total": 553
+        },
+        {
+          "gw": 10,
+          "points": 63,
+          "total": 616
+        },
+        {
+          "gw": 11,
+          "points": 38,
+          "total": 654
+        },
+        {
+          "gw": 12,
+          "points": 2,
+          "total": 656
+        }
+      ],
+      "earned": 0
+    },
+    {
       "id": 2595541,
       "manager": "Rich Knight",
       "team": "Red Djed Redemption",
-      "rank": 6,
+      "rank": 7,
       "total": 661,
       "event_total": 2,
       "history": [
@@ -426,77 +497,6 @@
           "gw": 12,
           "points": 2,
           "total": 661
-        }
-      ],
-      "earned": 0
-    },
-    {
-      "id": 1697938,
-      "manager": "caellum De gernier",
-      "team": "Clumutd",
-      "rank": 7,
-      "total": 656,
-      "event_total": 2,
-      "history": [
-        {
-          "gw": 1,
-          "points": 46,
-          "total": 46
-        },
-        {
-          "gw": 2,
-          "points": 95,
-          "total": 141
-        },
-        {
-          "gw": 3,
-          "points": 63,
-          "total": 204
-        },
-        {
-          "gw": 4,
-          "points": 84,
-          "total": 288
-        },
-        {
-          "gw": 5,
-          "points": 40,
-          "total": 320
-        },
-        {
-          "gw": 6,
-          "points": 69,
-          "total": 389
-        },
-        {
-          "gw": 7,
-          "points": 71,
-          "total": 460
-        },
-        {
-          "gw": 8,
-          "points": 43,
-          "total": 503
-        },
-        {
-          "gw": 9,
-          "points": 50,
-          "total": 553
-        },
-        {
-          "gw": 10,
-          "points": 63,
-          "total": 616
-        },
-        {
-          "gw": 11,
-          "points": 38,
-          "total": 654
-        },
-        {
-          "gw": 12,
-          "points": 2,
-          "total": 656
         }
       ],
       "earned": 0
@@ -719,8 +719,8 @@
       "manager": "Saurav V",
       "team": "cunhabruno",
       "rank": 11,
-      "total": 617,
-      "event_total": 2,
+      "total": 619,
+      "event_total": 4,
       "history": [
         {
           "gw": 1,
@@ -861,8 +861,8 @@
       "manager": "Luke Stonehouse",
       "team": "2nd Try FC",
       "rank": 13,
-      "total": 595,
-      "event_total": 4,
+      "total": 603,
+      "event_total": 12,
       "history": [
         {
           "gw": 1,
@@ -932,8 +932,8 @@
       "manager": "Alex Leech",
       "team": "Sesko meal deal",
       "rank": 14,
-      "total": 543,
-      "event_total": 0,
+      "total": 545,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
