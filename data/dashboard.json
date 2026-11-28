@@ -1,7 +1,7 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-28T16:59:53.037091+00:00",
+  "updated": "2026-11-28T17:54:56.775865+00:00",
   "gameweek": 12,
   "players": [
     {
@@ -80,8 +80,8 @@
       "manager": "Dave Stutters",
       "team": "Boom-Saka-Laka",
       "rank": 2,
-      "total": 721,
-      "event_total": 3,
+      "total": 726,
+      "event_total": 8,
       "history": [
         {
           "gw": 1,
@@ -151,8 +151,8 @@
       "manager": "Tony Smith",
       "team": "Wirtz Team Ever",
       "rank": 3,
-      "total": 697,
-      "event_total": 16,
+      "total": 704,
+      "event_total": 23,
       "history": [
         {
           "gw": 1,
@@ -222,8 +222,8 @@
       "manager": "Alistair De Gernier",
       "team": "Olympique de Gernier",
       "rank": 4,
-      "total": 692,
-      "event_total": 1,
+      "total": 694,
+      "event_total": 3,
       "history": [
         {
           "gw": 1,
@@ -293,8 +293,8 @@
       "manager": "Cohen Smith",
       "team": "Make emile of it",
       "rank": 5,
-      "total": 675,
-      "event_total": 2,
+      "total": 677,
+      "event_total": 4,
       "history": [
         {
           "gw": 1,
@@ -435,8 +435,8 @@
       "manager": "Rich Knight",
       "team": "Red Djed Redemption",
       "rank": 7,
-      "total": 661,
-      "event_total": 2,
+      "total": 662,
+      "event_total": 3,
       "history": [
         {
           "gw": 1,
@@ -506,8 +506,8 @@
       "manager": "Chris Smith",
       "team": "Buckaroo Saka",
       "rank": 8,
-      "total": 633,
-      "event_total": 0,
+      "total": 635,
+      "event_total": 2,
       "history": [
         {
           "gw": 1,
@@ -573,12 +573,83 @@
       "earned": 3.75
     },
     {
+      "id": 693855,
+      "manager": "David browne",
+      "team": "silverlakes",
+      "rank": 9,
+      "total": 630,
+      "event_total": 13,
+      "history": [
+        {
+          "gw": 1,
+          "points": 56,
+          "total": 56
+        },
+        {
+          "gw": 2,
+          "points": 84,
+          "total": 140
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "total": 189
+        },
+        {
+          "gw": 4,
+          "points": 59,
+          "total": 248
+        },
+        {
+          "gw": 5,
+          "points": 42,
+          "total": 290
+        },
+        {
+          "gw": 6,
+          "points": 78,
+          "total": 368
+        },
+        {
+          "gw": 7,
+          "points": 39,
+          "total": 407
+        },
+        {
+          "gw": 8,
+          "points": 51,
+          "total": 458
+        },
+        {
+          "gw": 9,
+          "points": 62,
+          "total": 520
+        },
+        {
+          "gw": 10,
+          "points": 66,
+          "total": 586
+        },
+        {
+          "gw": 11,
+          "points": 31,
+          "total": 617
+        },
+        {
+          "gw": 12,
+          "points": 6,
+          "total": 623
+        }
+      ],
+      "earned": 1.5
+    },
+    {
       "id": 4279346,
       "manager": "Saurav V",
       "team": "cunhabruno",
-      "rank": 9,
-      "total": 627,
-      "event_total": 12,
+      "rank": 10,
+      "total": 628,
+      "event_total": 13,
       "history": [
         {
           "gw": 1,
@@ -647,9 +718,9 @@
       "id": 2716734,
       "manager": "Alex Nicholls",
       "team": "Baddadan Burn",
-      "rank": 10,
-      "total": 626,
-      "event_total": 2,
+      "rank": 11,
+      "total": 627,
+      "event_total": 3,
       "history": [
         {
           "gw": 1,
@@ -713,77 +784,6 @@
         }
       ],
       "earned": 0
-    },
-    {
-      "id": 693855,
-      "manager": "David browne",
-      "team": "silverlakes",
-      "rank": 11,
-      "total": 624,
-      "event_total": 7,
-      "history": [
-        {
-          "gw": 1,
-          "points": 56,
-          "total": 56
-        },
-        {
-          "gw": 2,
-          "points": 84,
-          "total": 140
-        },
-        {
-          "gw": 3,
-          "points": 53,
-          "total": 189
-        },
-        {
-          "gw": 4,
-          "points": 59,
-          "total": 248
-        },
-        {
-          "gw": 5,
-          "points": 42,
-          "total": 290
-        },
-        {
-          "gw": 6,
-          "points": 78,
-          "total": 368
-        },
-        {
-          "gw": 7,
-          "points": 39,
-          "total": 407
-        },
-        {
-          "gw": 8,
-          "points": 51,
-          "total": 458
-        },
-        {
-          "gw": 9,
-          "points": 62,
-          "total": 520
-        },
-        {
-          "gw": 10,
-          "points": 66,
-          "total": 586
-        },
-        {
-          "gw": 11,
-          "points": 31,
-          "total": 617
-        },
-        {
-          "gw": 12,
-          "points": 6,
-          "total": 623
-        }
-      ],
-      "earned": 1.5
     },
     {
       "id": 2510079,
@@ -932,8 +932,8 @@
       "manager": "Alex Leech",
       "team": "Sesko meal deal",
       "rank": 14,
-      "total": 559,
-      "event_total": 16,
+      "total": 560,
+      "event_total": 17,
       "history": [
         {
           "gw": 1,
