@@ -1,7 +1,7 @@
 {
   "league": "The Smithman Invitational",
   "season": "2026/27",
-  "updated": "2026-11-28T15:58:07.370852+00:00",
+  "updated": "2026-11-28T16:59:53.037091+00:00",
   "gameweek": 12,
   "players": [
     {
@@ -9,8 +9,8 @@
       "manager": "Jon Foreman",
       "team": "Smith must score",
       "rank": 1,
-      "total": 725,
-      "event_total": 18,
+      "total": 735,
+      "event_total": 28,
       "history": [
         {
           "gw": 1,
@@ -80,8 +80,8 @@
       "manager": "Dave Stutters",
       "team": "Boom-Saka-Laka",
       "rank": 2,
-      "total": 720,
-      "event_total": 2,
+      "total": 721,
+      "event_total": 3,
       "history": [
         {
           "gw": 1,
@@ -147,83 +147,12 @@
       "earned": 7.0
     },
     {
-      "id": 4733756,
-      "manager": "Alistair De Gernier",
-      "team": "Olympique de Gernier",
-      "rank": 3,
-      "total": 691,
-      "event_total": 0,
-      "history": [
-        {
-          "gw": 1,
-          "points": 39,
-          "total": 39
-        },
-        {
-          "gw": 2,
-          "points": 108,
-          "total": 147
-        },
-        {
-          "gw": 3,
-          "points": 53,
-          "total": 200
-        },
-        {
-          "gw": 4,
-          "points": 81,
-          "total": 281
-        },
-        {
-          "gw": 5,
-          "points": 57,
-          "total": 338
-        },
-        {
-          "gw": 6,
-          "points": 44,
-          "total": 382
-        },
-        {
-          "gw": 7,
-          "points": 74,
-          "total": 456
-        },
-        {
-          "gw": 8,
-          "points": 45,
-          "total": 501
-        },
-        {
-          "gw": 9,
-          "points": 75,
-          "total": 576
-        },
-        {
-          "gw": 10,
-          "points": 62,
-          "total": 638
-        },
-        {
-          "gw": 11,
-          "points": 53,
-          "total": 691
-        },
-        {
-          "gw": 12,
-          "points": 0,
-          "total": 691
-        }
-      ],
-      "earned": 3.0
-    },
-    {
       "id": 2152005,
       "manager": "Tony Smith",
       "team": "Wirtz Team Ever",
-      "rank": 4,
-      "total": 685,
-      "event_total": 4,
+      "rank": 3,
+      "total": 697,
+      "event_total": 16,
       "history": [
         {
           "gw": 1,
@@ -287,6 +216,77 @@
         }
       ],
       "earned": 4.0
+    },
+    {
+      "id": 4733756,
+      "manager": "Alistair De Gernier",
+      "team": "Olympique de Gernier",
+      "rank": 4,
+      "total": 692,
+      "event_total": 1,
+      "history": [
+        {
+          "gw": 1,
+          "points": 39,
+          "total": 39
+        },
+        {
+          "gw": 2,
+          "points": 108,
+          "total": 147
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "total": 200
+        },
+        {
+          "gw": 4,
+          "points": 81,
+          "total": 281
+        },
+        {
+          "gw": 5,
+          "points": 57,
+          "total": 338
+        },
+        {
+          "gw": 6,
+          "points": 44,
+          "total": 382
+        },
+        {
+          "gw": 7,
+          "points": 74,
+          "total": 456
+        },
+        {
+          "gw": 8,
+          "points": 45,
+          "total": 501
+        },
+        {
+          "gw": 9,
+          "points": 75,
+          "total": 576
+        },
+        {
+          "gw": 10,
+          "points": 62,
+          "total": 638
+        },
+        {
+          "gw": 11,
+          "points": 53,
+          "total": 691
+        },
+        {
+          "gw": 12,
+          "points": 0,
+          "total": 691
+        }
+      ],
+      "earned": 3.0
     },
     {
       "id": 55035,
@@ -573,10 +573,81 @@
       "earned": 3.75
     },
     {
+      "id": 4279346,
+      "manager": "Saurav V",
+      "team": "cunhabruno",
+      "rank": 9,
+      "total": 627,
+      "event_total": 12,
+      "history": [
+        {
+          "gw": 1,
+          "points": 62,
+          "total": 62
+        },
+        {
+          "gw": 2,
+          "points": 102,
+          "total": 164
+        },
+        {
+          "gw": 3,
+          "points": 51,
+          "total": 207
+        },
+        {
+          "gw": 4,
+          "points": 81,
+          "total": 288
+        },
+        {
+          "gw": 5,
+          "points": 41,
+          "total": 329
+        },
+        {
+          "gw": 6,
+          "points": 72,
+          "total": 401
+        },
+        {
+          "gw": 7,
+          "points": 61,
+          "total": 462
+        },
+        {
+          "gw": 8,
+          "points": 30,
+          "total": 492
+        },
+        {
+          "gw": 9,
+          "points": 41,
+          "total": 533
+        },
+        {
+          "gw": 10,
+          "points": 64,
+          "total": 597
+        },
+        {
+          "gw": 11,
+          "points": 26,
+          "total": 615
+        },
+        {
+          "gw": 12,
+          "points": 2,
+          "total": 617
+        }
+      ],
+      "earned": 0
+    },
+    {
       "id": 2716734,
       "manager": "Alex Nicholls",
       "team": "Baddadan Burn",
-      "rank": 9,
+      "rank": 10,
       "total": 626,
       "event_total": 2,
       "history": [
@@ -647,9 +718,9 @@
       "id": 693855,
       "manager": "David browne",
       "team": "silverlakes",
-      "rank": 10,
-      "total": 623,
-      "event_total": 6,
+      "rank": 11,
+      "total": 624,
+      "event_total": 7,
       "history": [
         {
           "gw": 1,
@@ -715,154 +786,12 @@
       "earned": 1.5
     },
     {
-      "id": 4279346,
-      "manager": "Saurav V",
-      "team": "cunhabruno",
-      "rank": 11,
-      "total": 619,
-      "event_total": 4,
-      "history": [
-        {
-          "gw": 1,
-          "points": 62,
-          "total": 62
-        },
-        {
-          "gw": 2,
-          "points": 102,
-          "total": 164
-        },
-        {
-          "gw": 3,
-          "points": 51,
-          "total": 207
-        },
-        {
-          "gw": 4,
-          "points": 81,
-          "total": 288
-        },
-        {
-          "gw": 5,
-          "points": 41,
-          "total": 329
-        },
-        {
-          "gw": 6,
-          "points": 72,
-          "total": 401
-        },
-        {
-          "gw": 7,
-          "points": 61,
-          "total": 462
-        },
-        {
-          "gw": 8,
-          "points": 30,
-          "total": 492
-        },
-        {
-          "gw": 9,
-          "points": 41,
-          "total": 533
-        },
-        {
-          "gw": 10,
-          "points": 64,
-          "total": 597
-        },
-        {
-          "gw": 11,
-          "points": 26,
-          "total": 615
-        },
-        {
-          "gw": 12,
-          "points": 2,
-          "total": 617
-        }
-      ],
-      "earned": 0
-    },
-    {
-      "id": 342827,
-      "manager": "Keaton Smith",
-      "team": "better red for djed",
-      "rank": 12,
-      "total": 603,
-      "event_total": 10,
-      "history": [
-        {
-          "gw": 1,
-          "points": 54,
-          "total": 54
-        },
-        {
-          "gw": 2,
-          "points": 56,
-          "total": 110
-        },
-        {
-          "gw": 3,
-          "points": 54,
-          "total": 164
-        },
-        {
-          "gw": 4,
-          "points": 76,
-          "total": 240
-        },
-        {
-          "gw": 5,
-          "points": 64,
-          "total": 304
-        },
-        {
-          "gw": 6,
-          "points": 46,
-          "total": 350
-        },
-        {
-          "gw": 7,
-          "points": 68,
-          "total": 418
-        },
-        {
-          "gw": 8,
-          "points": 59,
-          "total": 477
-        },
-        {
-          "gw": 9,
-          "points": 38,
-          "total": 515
-        },
-        {
-          "gw": 10,
-          "points": 53,
-          "total": 568
-        },
-        {
-          "gw": 11,
-          "points": 25,
-          "total": 593
-        },
-        {
-          "gw": 12,
-          "points": 10,
-          "total": 603
-        }
-      ],
-      "earned": 0
-    },
-    {
       "id": 2510079,
       "manager": "Luke Stonehouse",
       "team": "2nd Try FC",
-      "rank": 13,
-      "total": 603,
-      "event_total": 12,
+      "rank": 12,
+      "total": 610,
+      "event_total": 19,
       "history": [
         {
           "gw": 1,
@@ -928,12 +857,83 @@
       "earned": 0
     },
     {
+      "id": 342827,
+      "manager": "Keaton Smith",
+      "team": "better red for djed",
+      "rank": 13,
+      "total": 604,
+      "event_total": 11,
+      "history": [
+        {
+          "gw": 1,
+          "points": 54,
+          "total": 54
+        },
+        {
+          "gw": 2,
+          "points": 56,
+          "total": 110
+        },
+        {
+          "gw": 3,
+          "points": 54,
+          "total": 164
+        },
+        {
+          "gw": 4,
+          "points": 76,
+          "total": 240
+        },
+        {
+          "gw": 5,
+          "points": 64,
+          "total": 304
+        },
+        {
+          "gw": 6,
+          "points": 46,
+          "total": 350
+        },
+        {
+          "gw": 7,
+          "points": 68,
+          "total": 418
+        },
+        {
+          "gw": 8,
+          "points": 59,
+          "total": 477
+        },
+        {
+          "gw": 9,
+          "points": 38,
+          "total": 515
+        },
+        {
+          "gw": 10,
+          "points": 53,
+          "total": 568
+        },
+        {
+          "gw": 11,
+          "points": 25,
+          "total": 593
+        },
+        {
+          "gw": 12,
+          "points": 10,
+          "total": 603
+        }
+      ],
+      "earned": 0
+    },
+    {
       "id": 1660659,
       "manager": "Alex Leech",
       "team": "Sesko meal deal",
       "rank": 14,
-      "total": 545,
-      "event_total": 2,
+      "total": 559,
+      "event_total": 16,
       "history": [
         {
           "gw": 1,
